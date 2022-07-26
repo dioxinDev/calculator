@@ -8,4 +8,7 @@ public class Controller {
         this.model = model;
 
     }
+
+    public void handleEvent(String function) {
+    }
 }
